@@ -4,8 +4,13 @@ Hey! You found my profile, I guess it's time to introduce myself, I am Mahmoud:k
 
 
 Programming languages I have learnt so far : 
+
     Python :snake:
-    Java :coffee:
-    C :copyright:
+    
     R :registered:
-    ARMv8 Assembly
+    
+    Java :coffee::hotsprings:
+    
+    C :copyright:
+    
+    ARMv8 Assembly :computer:
