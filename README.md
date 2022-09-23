@@ -14,3 +14,15 @@ Hey! You found my profile, I guess it's time to introduce myself, I am Mahmoud:k
    C :copyright:
     
    ARMv8 Assembly :computer:
+   
+   JavaScript
+   
+   React
+   
+   HTML & CSS
+   
+   Haskell
+   
+   Prolog
+   
+   
